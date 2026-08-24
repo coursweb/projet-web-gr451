@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Application
+title: Switzerland Is...
 permalink: application.html
 ---
 
-Un travail réel utilisant le CMS WordPress.
+Informations à venir.
 
-Ce travail débutera le 5 octobre. 
+Réalisation: Du 1er octobre jusqu'au 19 novembre (6 cours).
