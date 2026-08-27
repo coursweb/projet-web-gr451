@@ -38,7 +38,7 @@ Dans un deuxième temps, ces maquettes seront développées (avec WordPress) par
 Fournir également une page imprimée (A4 horizontal) montrant une page du template. Doit comporter en petit en bas à droite le nom du template, et le nom de l'élève.
 
 
-**Date du rendu:** Lundi 5 octobre 2026 au début du cours.
+**Date du rendu:** Jeudi 24 septembre 2026 à la fin du cours.
 
 #### Critères: 
 
