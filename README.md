@@ -14,9 +14,9 @@ Ces maquettes seront ensuite développées (avec WordPress) par des élèves des
 
 Détail du projet: [Portfolio Factory](portfolio-factory.html).
 
-### Switzerland Is Great  
+### SwissSecrets  
 
-un projet qui s'inscrit dans la thématique des Portes Ouvertes 2026.
+Un projet qui s'inscrit dans la thématique des Portes Ouvertes 2026. Détail du projet: [SwissSecrets](swisssecrets.html).
 
 ### Typo Newsletter
 
