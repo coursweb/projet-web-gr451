@@ -5,10 +5,12 @@ permalink: swisssecrets.html
 ---
 
 ## Concept
- 
+
 Création d’un site web collectif consacré aux histoires, lieux et faits historiques méconnus de la Suisse. Chaque élève choisit une thématique parmi une liste proposée et réalise une page dédiée. Le site final réunira 13 thématiques, soit une contribution par élève.
 
 - [Slides de présentation du projet](https://www.figma.com/deck/zwTRdZdoCnPQWRXTwkIV7t).
+
+**Remarque:** un projet parallèle est réalisé [avec la classe GR450](https://cours-web.ch/projet-web-gr450/traditions-vivantes.html) sur les Traditions vivantes suisses.
  
 ## Direction artistique
  
